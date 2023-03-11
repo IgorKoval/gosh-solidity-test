@@ -1,0 +1,1 @@
+# gosh-solidity-test
